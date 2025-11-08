@@ -2,7 +2,7 @@ import requests
 import time
 import telebot
 import random
-token = "8155270205:AAFrcQaPFN1I04x7R3E8qTIP-kNohivlg5I"
+token = "your token"
 bot = telebot.TeleBot(token)
 lict = []
 urlv = ''
